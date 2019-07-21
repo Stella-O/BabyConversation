@@ -19,4 +19,6 @@ while(answer) != "just because":
 
 print("Oh... Okay")
 
+input()
+
     
